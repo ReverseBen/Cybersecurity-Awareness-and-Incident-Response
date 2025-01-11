@@ -16,7 +16,7 @@ During those 7 months, we worked on the following important topics related to th
 
 - Protecting confidentiality, integrity, and availability of data through concepts like encryption, auditing, file integrity, and backup strategies
 
-## [Project 1 : Securing the Perimeter](Project 1 Securing the Perimeter)
+## [Project 1 : Securing the Perimeter](https://github.com/ReverseBen/Cybersecurity-Awareness-and-Incident-Response/blob/e182c8f37b63c6a952bb7d1534e0106158699554/Project%201%20Securing%20the%20Perimeter)
 
 ### Project Scenario
 
@@ -28,7 +28,7 @@ Due to a lack of visibility and a lack of proper access control setup on the net
 
 Needing to get the bottom of this breach and resolving their current perimeter issues they've contracted you from SecureCorp, a world renowned cybersecurity consulting firm. Your job is to redesign their network architecture securely and set up a SIEM to monitor against future attacks.
 
-## [Project 2 : FedF1rst Security Assessment](Project 2 FedF1rst Security Assessment)
+## [Project 2 : FedF1rst Security Assessment](https://github.com/ReverseBen/Cybersecurity-Awareness-and-Incident-Response/blob/e182c8f37b63c6a952bb7d1534e0106158699554/Project%202%20FedF1rst%20Security%20Assessment)
 
 ### Project Scenario
 
@@ -38,7 +38,7 @@ Your mission: to navigate the complexities of digital security, ensuring that ev
 
 Welcome to the forefront of cybersecurity at Fed F1rst Control Systems, where your expertise is the key to unlocking a secure, innovative future.
 
-## [Project 3 : CryptoV4ULT Enterprise Security Assessment](Project 3 CryptoV4ULT Enterprise Security Assessment)
+## [Project 3 : CryptoV4ULT Enterprise Security Assessment](https://github.com/ReverseBen/Cybersecurity-Awareness-and-Incident-Response/blob/e182c8f37b63c6a952bb7d1534e0106158699554/Project%203%20CryptoV4ULT%20Enterprise%20Security%20Assessment)
 
 ### Project Scenario
 
@@ -48,7 +48,7 @@ Your role involves a comprehensive review of the security landscape for our new 
 
 Ultimately, your objective is to develop a robust remediation plan that not only addresses current vulnerabilities but also strengthens our overall security posture, safeguarding both user data and the platform's reputation. This critical mission presents an exciting opportunity to leverage your skills and expertise in cybersecurity to fortify our infrastructure and uphold our commitment to providing a secure and reliable platform for our users. Let's embark on this journey together to ensure CryptoV4ult remains a trusted leader in the cryptocurrency industry!
 
-## [Project 4 : Data Security Analysis in Online Payment Processing](Project 4 Data Security Analysis in Online Payment Processing)
+## [Project 4 : Data Security Analysis in Online Payment Processing](https://github.com/ReverseBen/Cybersecurity-Awareness-and-Incident-Response/blob/e182c8f37b63c6a952bb7d1534e0106158699554/Project%204%20Data%20Security%20Analysis%20in%20Online%20Payment%20Processing)
 
 ### Project Scenario
 
